@@ -1,0 +1,12 @@
+* {
+    font-family: "Rubik", sans-serif;
+}
+
+.nav-link:hover {
+    color: #10a0cf !important;
+}
+
+.landing {
+    background-image: url("/img/banner/home-banner.png");
+    background-size: cover;
+}
