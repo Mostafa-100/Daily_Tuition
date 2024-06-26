@@ -10,3 +10,11 @@
     background-image: url("/img/banner/home-banner.png");
     background-size: cover;
 }
+
+.experiences__right-side {
+    background-color: #FEF7F7;
+}
+
+.experiences__years {
+    font-size: clamp(1.3rem, 6vw, 6rem);
+}
